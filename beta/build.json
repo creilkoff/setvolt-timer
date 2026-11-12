@@ -1,0 +1,10 @@
+{
+  "sourceRepository": "creilkoff/Setvolt",
+  "sourceCommit": "b0570094476f162dbfcd6c1dbf39c29937fe4819",
+  "sourceFile": "setvolt_v42_editable_interval_structure.html",
+  "sha256": "baf936b1a2bb8693e2ee4ffa55baa2e2643bfcf01e03d86ce5faeb93b4c96ca8",
+  "assets": {
+    "manifest.webmanifest": "4ae103d53e3090fffd77fb0571d1546892cfb2c9fa056a4bdd9e3ae305e5d04c",
+    "icon.svg": "e8b09f649f227a9216341ffaae5608235a787d4ff8c34289ba614315ff93852e"
+  }
+}
